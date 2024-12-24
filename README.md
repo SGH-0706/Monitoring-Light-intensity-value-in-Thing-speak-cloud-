@@ -90,8 +90,17 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
  
 # PROGRAM:
+![WhatsApp Image 2024-12-18 at 4 07 40 PM](https://github.com/user-attachments/assets/fd3d97e8-c4ea-42b5-bfdb-16eddd11af70)
+
+
 # CIRCUIT DIAGRAM:
+![exp 4 iott](https://github.com/user-attachments/assets/27193154-41b7-4586-9562-c50002c84590)
+
+
 # OUTPUT:
+
+![WhatsApp Image 2024-12-18 at 4 07 07 PM](https://github.com/user-attachments/assets/fc7909fb-9caf-4731-ba27-177d4b9ee222)
+
 # RESULT:
 
 Thus the light intensity values are updated in the Thing speak cloud using ESP32 controller.
